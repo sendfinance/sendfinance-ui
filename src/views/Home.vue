@@ -5,7 +5,7 @@
       <SEND />
       <div class="notice-container">
         <el-alert
-          title="💌💌 The preferred token of your best courier 💌💌"
+          title="💌💌 The preferred token of your #1 courier 💌💌"
           type="warning"
           :closable="false">
         </el-alert>
