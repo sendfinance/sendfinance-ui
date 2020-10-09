@@ -1,0 +1,14 @@
+{
+  "weth": {
+    "icon": "⛰️",
+    "name": "ETH Mountain delivery",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  "link": {
+    "icon": "🌋",
+    "name": "Erupting Marines",
+    "symbol": "LINK",
+    "decimals": 18
+  }
+}

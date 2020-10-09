@@ -1,0 +1,32 @@
+{
+  "stake": {
+    "weth": {
+      "symbol": "WETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    },
+    "link": {
+      "symbol": "LINK",
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+    }
+  },
+  "harvest": {
+    "SEND": {
+      "symbol": "$SEND",
+      "address": "0x14c4d8e57751e083bcd1edcca5b435720166f5e9"
+    },
+    "NUDES": {
+      "symbol": "NUDES",
+      "address": "0x14c4d8e57751e083bcd1edcca5b435720166f5e9"
+    }
+  },
+  "pool": {
+    "weth": {
+      "symbol": "SENDETHPool",
+      "address": "0x3E63e6F0D6E90E120Eb31e005aa149b476a89492"
+    },
+    "link": {
+      "symbol": "SENDLINKPool",
+      "address": "0x633992502d7c13E8f95A8B8E44f17BA17EB2Db6D"
+    }
+  }
+}
